@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# OS and editor-specific
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build artifacts
+client/build/
+client/public/
