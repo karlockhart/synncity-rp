@@ -10,7 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "couchbase": "^4.4.4",
-    "pm2": "^5.4.3"
+    "aws-sdk": "^2.1692.0"
   }
 }
